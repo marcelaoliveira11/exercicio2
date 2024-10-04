@@ -1,2 +1,1 @@
-# exercicio2
- texto contínuo
+texto contínuo
